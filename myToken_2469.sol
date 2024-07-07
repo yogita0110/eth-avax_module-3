@@ -3,10 +3,10 @@ pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract MyToken_21BCS2469 is ERC20 {
+contract myToken_2469 is ERC20 {
     address public owner;
 
-    constructor() ERC20("MyToken", "MTK") {
+    constructor() ERC20("GlobalToken", "GTK") {
         owner = msg.sender;
     }
 
