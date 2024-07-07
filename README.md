@@ -1,4 +1,4 @@
-## MyToken_2469
+## myToken_2469
 
 MyToken is an ERC20-compliant token created using Solidity on a local Hardhat network. The contract allows the contract owner to mint tokens to a provided address, while any user can burn and transfer tokens.
 
@@ -35,7 +35,7 @@ The contract allows the contract owner to mint tokens to a provided address, whi
 10.Remember to connect to the correct network in Remix and ensure that you have the required tokens in your account to perform token transfers or burns.
 
 ## Video Walkthrough
-
+https://www.loom.com/share/dd020c589d9b40deb641bac9c0cf30ce?sid=149d68f7-3402-4692-a83e-a531c1f62283
 ## License
 
 This project is licensed under the MIT license.
